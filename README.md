@@ -23,13 +23,15 @@ The task is episodic, and in order to solve the environment, your agents must ge
     * [Windows 32-bit](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Windows_x86.zip)
     * [Windows 64-bit](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Windows_x86_64.zip)
 
-## Structure
-
-All classes and utility function are implemented in `Tennis.ipynb` note book.
+All classes and utility function are implemented in `agent.py` file.
 
 ## Training
 
-`Tennis.ipynb` contains all the necessary code to train the models. Some 
+`train.ipynb` contains all the necessary code to train the models.
+
+## Testing
+
+To run the test make sure you have model files in the root directory and then run all cells in `test.ipynb`.
 
 ## Report
 
